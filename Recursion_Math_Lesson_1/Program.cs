@@ -148,6 +148,7 @@ namespace Recursion_Math_Lesson_1
                 Console.Write("| {0} |", Calculate_Assignemt_6(n));
             }
 
+            Console.WriteLine();
             Console.WriteLine("Explanation: the dots on 1 dice are in total 21. Each dice added will contain: (1) the sum of all the dices dots together previously (2) plus the new 21.");
             Console.WriteLine("Explanation: the dots on one dice = 6 + 5 + 4 + 3 + 2 + 1 = 21");
             Console.WriteLine();
@@ -172,6 +173,7 @@ namespace Recursion_Math_Lesson_1
                 Console.Write("| {0} |", Calculate_Assignemt_7(n));
             }
 
+            Console.WriteLine();
             Console.WriteLine(@"Explanation: Foreach player added: 
                                 we take the already existing total number of games + ( A(n-1) )
                                 total number of players already in the tournament, ( n - 1 )
