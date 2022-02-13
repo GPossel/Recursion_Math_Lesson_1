@@ -1,5 +1,5 @@
 # Recursion_Math_Lesson_1
-This project is the homework of lesson 1 aboout recursion in math and programmming.
+This project is the homework of lesson 1 about recursion in math and programmming.
 
 
 Within this project the following assignemts will be resolved with the use of recursive formula's in code.
