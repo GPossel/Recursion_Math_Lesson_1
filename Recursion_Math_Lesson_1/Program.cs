@@ -12,20 +12,36 @@ namespace Recursion_Math_Lesson_1
 
         public void MyProgram()
         {
+            Console.WriteLine();
+            Console.WriteLine("Assignment 1)");
             Assingment_1();
+
             Console.WriteLine();
+            Console.WriteLine("Assignment 2)");
             Assingment_2();
+
             Console.WriteLine();
+            Console.WriteLine("Assignment 3)");
             Assingment_3();
+
             Console.WriteLine();
+            Console.WriteLine("Assignment 4)");
             Assingment_4();
+
             Console.WriteLine();
+            Console.WriteLine("Assignment 5)");
             Assingment_5();
+
             Console.WriteLine();
+            Console.WriteLine("Assignment 6)");
             Assingment_6();
+
             Console.WriteLine();
+            Console.WriteLine("Assignment 7)");
             Assingment_7();
+
             Console.WriteLine();
+            Console.WriteLine("Assignment 8) ( Explaining extra's on assignment 7, using shapes and connecting dots )");
             Assingment_8();
         }
 
