@@ -178,7 +178,8 @@ namespace Recursion_Math_Lesson_1
                                 we take the already existing total number of games + ( A(n-1) )
                                 total number of players already in the tournament, ( n - 1 )
                                 then we play 2 matches to each of those player ( * 2 ).
-                                We start at n=2, (two players) because then there will be 2 matches. (One with white, one with black)");
+                                We start at n=2, (two players) because then there will be 2 matches. (One with white, one with black)
+");
 
             Console.WriteLine("In other words: foreach player we add, we have to calculate the new matches added of this person by getting all the other players vs him times two. We add these new matches, to the ones already calculated.");
             Console.WriteLine("For a visualisation of the problem I created a picture (see attatchment) and a excersize for myself, containing dots, shapes and connecting lines. ");
