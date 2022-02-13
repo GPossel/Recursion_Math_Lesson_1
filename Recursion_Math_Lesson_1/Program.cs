@@ -162,10 +162,8 @@ namespace Recursion_Math_Lesson_1
 
         public void Assingment_7()
         {
-            Console.WriteLine(@"At a checkers tournament (Dutch: damtoernooi), there are n players. The playing schedule is as follows: each player will
-                                play twice against every other player(once with white and once with black).
-                                Determine a recursive definition for 𝑝𝑛: the number of games that will be played in total by n players. Give an
-                                explanation.");
+            Console.WriteLine(@"At a checkers tournament (Dutch: damtoernooi), there are n players. The playing schedule is as follows: each player will play twice against every other player(once with white and once with black).
+                                Determine a recursive definition for Pn: the number of games that will be played in total by n players. Give an explanation.");
             Console.WriteLine("(1) Qn = A(n-1) + ((n-1) * 2), n > 2");
             int[] row = new int[5] { 6, 5, 4, 3, 2 };
 
